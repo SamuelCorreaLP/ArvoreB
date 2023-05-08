@@ -1,0 +1,217 @@
+-- ArvoreSBB --
+
+inicio comparação
+Erro: Falha na pesquisa
+i = 1
+
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 2
+
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 3
+
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 4
+
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 5
+
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 6
+
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 7
+
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 8
+
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 9
+
+inicio comparação
+inicio comparação
+Erro: Falha na pesquisa
+i = 10
+
+
+-- ArvoreB ordem 2 --
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 1
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 2
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 3
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 4
+
+inicio comparação.
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 5
+
+inicio comparação.
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 6
+
+inicio comparação.
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 7
+
+inicio comparação.
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 8
+
+inicio comparação.
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 9
+
+inicio comparação.
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 10
+
+
+-- ArvoreB ordem 4 --
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 1
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 2
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 3
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 4
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 5
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 6
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 7
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 8
+
+inicio comparação.
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 9
+
+inicio comparação.
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 10
+
+
+-- ArvoreB ordem 6 --
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 1
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 2
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 3
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 4
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 5
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 6
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 7
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 8
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 9
+
+inicio comparação.
+inicio comparação.
+Registro não existe.
+i = 10
